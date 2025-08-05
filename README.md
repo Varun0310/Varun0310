@@ -94,9 +94,7 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Varun0310/Varun0310/output/github-contribution-grid-snake.svg" />
-</p>
+![Snake animation - dark](https://github.com/Varun0310/Varun0310/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
