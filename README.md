@@ -1,6 +1,8 @@
 # ✨ Welcome to VarunFolio ✨
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+UI+Designer+%7C+Tech+Explorer;Building+Smart+Tools+That+Look+Good+%26+Work+Great" alt="Typing SVG" /> </p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=2000&color=F75C7E&center=true&vCenter=true&width=950&lines=Tech+Explorer+%7C+Lifelong+Learner+%7C+Passionate+Coder;A+tech+portfolio+written+in+Java%2C+styled+with+design%2C+and+powered+by+curiosity.&repeat=false&cursor=true" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="220" style="background-color: #000; border-radius: 10px;" />
@@ -101,4 +103,4 @@
 ### 🧠 Fun Fact
 
 ```diff
-+ A tech portfolio written in Java, styled with design, and powered by curiosity.
++ " My favorite IDE shortcut is Ctrl+Z (undo regrets) "
