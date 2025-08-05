@@ -1,4 +1,4 @@
-# ✨ Welcome to VarunFoli ✨
+# ✨ Welcome to VarunFolio ✨
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer+%7C+UI+Enthusiast+%7C+Tech+Explorer;Building+Smart+Tools+That+Look+Good+%26+Work+Great" alt="Typing SVG" />
