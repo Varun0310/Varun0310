@@ -1,7 +1,7 @@
 # ✨ Welcome to VarunFolio ✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+UI+Designer+%7C+Tech+Explorer;Building+Smart+Tools+That+Look+Good+%26+Work+Great" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer+%7C+UI+Enthusiast+%7C+Tech+Explorer;Building+Smart+Tools+That+Look+Good+%26+Work+Great" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 MCA Student | Developer + Designer  
+- 🎓 MCA Student  
 - 🚀 Passionate about building full-featured Java applications  
 - 💡 Interested in NLP, Automation, and Interactive Design  
 - 🎯 Currently working on: **Price Comparison Bot** & **Smart Resume Analyzer**  
@@ -87,14 +87,16 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varun0310&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Varun0310&theme=radical&no-frame=true&no-bg=true&margin-w=15" style="border: 1px solid #fff; border-radius: 10px;" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![Snake animation - dark](https://github.com/Varun0310/Varun0310/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Varun0310/Varun0310/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
