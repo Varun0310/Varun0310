@@ -1,11 +1,11 @@
-# ✨ Welcome to VarunFolio ✨
+# ✨ Welcome to VarunFoli ✨
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer+%7C+UI+Enthusiast+%7C+Tech+Explorer;Building+Smart+Tools+That+Look+Good+%26+Work+Great" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="220" style="background-color: #000; border-radius: 10px;" />
 </p>
 
 <p align="center">
@@ -27,17 +27,17 @@
 ### 🛠️ Core Technical Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-%23007ACC.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate" />
+  <img src="https://img.shields.io/badge/JPA-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JDBC-003545?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Swing-AE0C4D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-003545?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swing-AE0C4D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🎨 Design Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
 </p>
@@ -87,7 +87,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varun0310&theme=radical&no-frame=true&no-bg=true&margin-w=15" style="border: 1px solid #fff; border-radius: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Varun0310&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Varun0310/Varun0310/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Varun0310/Varun0310/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="background-color: #fff; border-radius: 8px;" />
 </p>
 
 ---
