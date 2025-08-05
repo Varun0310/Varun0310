@@ -8,6 +8,10 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="220" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varun0310&label=Profile+Views&color=F75C7E&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -72,6 +76,26 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varun0310&show_icons=true&theme=radical" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun0310&layout=compact&theme=radical" width="350"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varun0310&theme=radical&hide_border=false" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Varun0310&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Varun0310/Varun0310/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
