@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write  # 🛠️ This is required for pushing to a branch
+  contents: write
 
 jobs:
   generate:
