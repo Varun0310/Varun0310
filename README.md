@@ -18,7 +18,7 @@
 
 - 🎓 MCA Student  
 - 🚀 Passionate about building full-featured Java applications  
-- 🎯 Currently working on: **Price Comparison Bot** & **Smart Resume Analyzer**  
+- 🎯 Currently working on: **Price Comparison Bot** 
 - 🌐 Portfolio & Contact: [LinkedIn](https://www.linkedin.com/in/varun0310) | [Email](mailto:varunsavarimuthu.03@gmail.com)
 
 ---
