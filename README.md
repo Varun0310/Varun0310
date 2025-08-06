@@ -18,7 +18,6 @@
 
 - 🎓 MCA Student  
 - 🚀 Passionate about building full-featured Java applications  
-- 💡 Interested in NLP, Automation, and Interactive Design  
 - 🎯 Currently working on: **Price Comparison Bot** & **Smart Resume Analyzer**  
 - 🌐 Portfolio & Contact: [LinkedIn](https://www.linkedin.com/in/varun0310) | [Email](mailto:varunsavarimuthu.03@gmail.com)
 
