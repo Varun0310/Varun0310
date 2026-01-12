@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Varun0310&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Varun0310" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun0310&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 👨‍💻 About Me
