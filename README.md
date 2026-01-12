@@ -1,20 +1,45 @@
 # ⚡ Welcome to Varun's Digital Garden ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=950&lines=Building+Smart+AI+Solutions;Crafting+Java+%26+React+Applications;Turning+Coffee+Into+Code+%E2%98%95;Tech+Explorer+%7C+MCA+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=950&lines=Tech+Explorer+%7C+Lifelong+Learner;Designing+Digital+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality;Code+%2B+Creativity+%3D+Magic" alt="Typing SVG" />
 </p>
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varun0310&theme=radical&show_icons=true&hide_border=true)
+---
 
 ### 👨‍💻 About Me
 
-> *"I build software that talks, thinks, and solves problems."*
-
-- 🎓 **MCA Student** passionate about Full Stack Development & Artificial Intelligence.
-- 🔭 Recently built **VacaPay**, a Tanglish-speaking AI Chatbot for farmers.
-- 🌱 Currently mastering **Generative AI (LLMs)** and **Microservices**.
-- 💬 Ask me about **Java, Spring Boot, or RAG Architectures**.
-- 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/varun0310) | [Email](mailto:varunsavarimuthu.03@gmail.com)
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>👋 Hello! I am Varun.</h2>
+      <blockquote>
+        <i>"I build software that talks, thinks, and solves problems."</i>
+      </blockquote>
+      <br />
+      <p>
+        I am a passionate <b>Full Stack Developer</b> and <b>UI Designer</b> who loves bridging the gap between beautiful designs and powerful code.
+      </p>
+      <p>
+        🎓 <b>MCA Student</b><br>
+        🎨 <b>Graphic Designer</b><br>
+        💻 <b>MERN Stack Developer</b>
+      </p>
+      <br />
+      <b>📫 Connect with me:</b><br />
+      <a href="https://linkedin.com/in/varun0310">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="mailto:varunsavarimuthu.03@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td valign="center" width="40%">
+      <div align="center">
+  <img src="https://wsrv.nl/?url=github.com/Varun0310.png&mask=circle&w=250" alt="Varun Profile Pic" />
+</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,9 +57,9 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 #### 🎨 **Frontend & Design**
@@ -50,18 +75,17 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🐮 [VacaPay AI Chatbot](https://github.com/Varun0310/Document-Based-ChatBot)**<br>*(New!)* | A **RAG-based AI Assistant** for dairy farmers. Supports **Voice input** and **"Tanglish"** (Tamil + English) translation. Answers queries from PDF docs using Google Gemini. | `React` `FastAPI` `LangChain` `Gemini AI` `FAISS` |
+| **🐮 [VacaPay AI Chatbot](https://github.com/Varun0310/Document-Based-ChatBot)**<br>*(New!)* | A **RAG-based AI Assistant** for dairy farmers. Supports **Voice input** and **"Tanglish"** (Tamil + English) translation. Answers queries from PDF docs using Google Gemini. | `React` `FastAPI` `LangChain` `Gemini AI` |
 | **📄 [ATS Resume Analyzer](https://github.com/Varun0310/ATS-Resume-Analyzer)** | Java GUI tool that parses resumes, performs **NLP lemmatization**, and scores candidates against job descriptions. | `Java Swing` `CoreNLP` `MySQL` |
 | **🛒 Price Comparison Bot** | Automated bot that fetches and compares product prices across e-commerce platforms using REST APIs and scraping. | `Java` `Selenium` `Spring Boot` |
 
 ---
 
-### 📊 GitHub Stats
+### ⏳ My Journey So Far
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun0310&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun0310&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-</p>
+- **2026:** 💼 Joined **Xtrafin** as an **Intern MERN Stack Developer**.
+- **2024:** 🎓 Started my PG: **Master of Computer Applications (MCA)**.
+- **2024:** 🎓 Completed UG: **B.Voc Graphic Design**.
 
 ---
 
@@ -71,9 +95,13 @@
   <img src="https://raw.githubusercontent.com/Varun0310/Varun0310/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varun0310&label=PROFILE+VIEWS&color=20C20E&style=flat-square" alt="Visitor Count" />
+</p>
+
 ---
 
 ### 💡 Fun Fact
 ```diff
-+ " I coded a chatbot that speaks Tanglish because... why not? "
-- " My favorite shortcut is still Ctrl+Z (undo regrets) "
++ " I transitioned from Designing Pixels to Designing Logic! "
+! " Ctrl+Z is my favorite shortcut (in Design & Code). "
