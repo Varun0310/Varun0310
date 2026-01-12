@@ -4,10 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=950&lines=Building+Smart+AI+Solutions;Crafting+Java+%26+React+Applications;Turning+Coffee+Into+Code+%E2%98%95;Tech+Explorer+%7C+MCA+Student" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun0310&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
----
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varun0310&theme=radical&show_icons=true&hide_border=true)
 
 ### 👨‍💻 About Me
 
