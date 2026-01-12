@@ -70,26 +70,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun0310&show_icons=true&theme=radical" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun0310&layout=compact&theme=radical" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varun0310&theme=radical&hide_border=false" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varun0310&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
