@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/varun0310"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/varunsavarimuthu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:varunsavarimuthu.03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Varun0310"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -18,25 +18,20 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%" width="100%"/>
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I'm a **Software Developer** at **Xtrafin Pvt Ltd**, where I've been the **sole developer on three live, client-facing systems** — owning architecture, API design, and delivery from database to deployed product. My work currently supports real fintech and dairy-insurance operations, including an expansion into the **Kenya market**.
+I'm a **Software Developer** at **Aculyze Solutions LLP**, building full-stack products and Gen AI applications. Previously at **Xtrafin Pvt Ltd**, I was the **sole developer on three live, client-facing systems** — owning architecture, API design, and delivery from database to deployed product — supporting real fintech and dairy-insurance operations, including an expansion into the **Kenya market**.
 
 Outside core full-stack work, I build with **AI/LLM tooling** — RAG chatbots, computer-vision biometric ID, and structured data extraction — features most developers at my stage have only studied, not shipped.
 
-- 🔭 Currently building: Xtrafin's core fintech platform + independent AI-powered tools
+- 🔭 Currently building: full-stack and Gen AI applications at Aculyze + independent AI-powered tools
 - 🌱 Currently sharpening: Data Structures & Algorithms, agentic AI workflows
 - 💬 Ask me about: RAG pipelines, YOLO/computer vision, full-stack architecture
 - 📫 Reach me: **varunsavarimuthu.03@gmail.com**
 
-</td>
-<td width="40%" valign="top">
+<div align="center">
 
 ### 📍 Impact Snapshot
 
@@ -47,11 +42,9 @@ Outside core full-stack work, I build with **AI/LLM tooling** — RAG chatbots, 
 | 🏢 Enterprise clients | **Tulya Groups, Bajaj Finserv** |
 | 🤖 AI features in production | **YOLO · RAG · Voice AI** |
 
-</td>
-</tr>
-</table>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -104,7 +97,7 @@ Outside core full-stack work, I build with **AI/LLM tooling** — RAG chatbots, 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%" width="100%"/>
 
 ## 🚀 Featured Work
 
@@ -189,44 +182,61 @@ Java GUI tool that parses resumes, performs NLP lemmatization, and scores candid
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%" width="100%"/>
 
 ## 🗺️ Journey
 
 <table>
 <tr>
-<td width="15%" align="center"><b>Aug 2025</b></td>
-<td width="5%" align="center">🟢</td>
-<td width="80%">
-<b>Software Developer</b> — Xtrafin Pvt Ltd <br/>
+<td width="22%" align="center"><b>Nov 2026<br/>– Present</b></td>
+<td width="6%" align="center">🟢</td>
+<td width="72%">
+<b>Full-Stack Builder</b> — Aculyze Solutions LLP <br/>
+<sub>Building full-stack products and Gen AI applications · Coimbatore, Tamil Nadu</sub>
+</td>
+</tr>
+<tr>
+<td></td>
+<td align="center">┆</td>
+<td></td>
+</tr>
+<tr>
+<td width="22%" align="center"><b>Aug 2025<br/>– Oct 2026</b></td>
+<td width="6%" align="center">💼</td>
+<td width="72%">
+<b>Junior Software Developer (Full Stack)</b> — Xtrafin Pvt Ltd <br/>
 <sub>Sole developer on 3 live client systems · Coimbatore, Tamil Nadu</sub>
 </td>
 </tr>
 <tr>
-<td colspan="3" align="center">┆</td>
+<td></td>
+<td align="center">┆</td>
+<td></td>
 </tr>
 <tr>
-<td width="15%" align="center"><b>2024–2026</b></td>
-<td width="5%" align="center">🎓</td>
-<td width="80%">
+<td width="22%" align="center"><b>2024<br/>– 2026</b></td>
+<td width="6%" align="center">🎓</td>
+<td width="72%">
 <b>Master of Computer Applications (MCA)</b> <br/>
 <sub>SNS College of Technology, Coimbatore</sub>
 </td>
 </tr>
 <tr>
-<td colspan="3" align="center">┆</td>
+<td></td>
+<td align="center">┆</td>
+<td></td>
 </tr>
 <tr>
-<td width="15%" align="center"><b>2021–2024</b></td>
-<td width="5%" align="center">🎨</td>
-<td width="80%">
+<td width="22%" align="center"><b>2021<br/>– 2024</b></td>
+<td width="6%" align="center">🎨</td>
+<td width="72%">
 <b>B.Voc in Graphic Design</b> <br/>
 <sub>Hindusthan College of Arts & Science, Coimbatore</sub>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -235,8 +245,7 @@ Java GUI tool that parses resumes, performs NLP lemmatization, and scores candid
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun0310&theme=tokyonight&hide_border=true&background=0B0F10&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6"/>
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EE6A6,100:1B3B36&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
